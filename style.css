@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background: #002239;
+    color: white;
+}
+
+.container {
+    margin: 5% auto;
+    width: 90%;
+    max-width: 700px;
+}
+
+.container h1 {
+    font-weight: 500;
+    font-size: 45px;
+}
+
+.container h1 span {
+    color: #019f55;
+    border-bottom: 4px solid #019f55;
+    padding-bottom: 7px;
+}
+
+.options {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.options label {
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.options input[type="number"] {
+    width: 70px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.display {
+    width: 100%;
+    margin-top: 30px;
+    background: #fff;
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.display input {
+    border: 0;
+    outline: 0;
+    font-size: 24px;
+    width: 100%;
+}
+
+.copy-btn {
+    background: none;
+    border: none;
+    color: #019f55;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.generate-btn {
+    margin-top: 20px;
+    border: 0;
+    outline: 0;
+    background: #019f55;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 26px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.generate-btn img {
+    width: 28px;
+    margin-right: 10px;
+}
+
+.message {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #00ff9d;
+}

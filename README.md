@@ -18,12 +18,10 @@ A simple and customizable password generator web application that helps users cr
 ## 🚀 Live Demo
 
 👉 [Click here to try it out](#)  
-*(Add your GitHub Pages / Netlify / Vercel link here if deployed)*
 
 ## 📸 Screenshots
 
 ![App Screenshot](images/screenshot.png)  
-*(Replace with your actual screenshot path)*
 
 ## 🛠️ Technologies Used
 
@@ -55,7 +53,7 @@ A simple and customizable password generator web application that helps users cr
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙌 Author
-Made with 💙 by [Zia UL Mustafa]  
+Made with 💙 by Zia UL Mustafa  
 
 ## 🙏 Credits
 
