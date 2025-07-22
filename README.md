@@ -41,8 +41,6 @@ A simple and customizable password generator web application that helps users cr
 4. Click **"Copy"** to save it to your clipboard.
 
 ## ✅ To-Do (Future Enhancements)
-
-- [ ] Add a password strength meter
 - [ ] Option to exclude similar characters (e.g. `O` vs `0`, `l` vs `1`)
 - [ ] Toggle dark/light mode
 - [ ] Save or export password list
