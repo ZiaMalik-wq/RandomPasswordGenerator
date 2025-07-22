@@ -21,7 +21,7 @@ A simple and customizable password generator web application that helps users cr
 
 ## 📸 Screenshots
 
-![App Screenshot](images/screenshot.png)  
+![App Screenshot](images/screenshot.png)
 
 ## 🛠️ Technologies Used
 
